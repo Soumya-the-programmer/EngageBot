@@ -18,7 +18,7 @@ To use EngageBot, you need to have Python installed on your system. Follow these
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/EngageBot.git
+   git clone https://github.com/Soumya-the-programmer/EngageBot.git
    ```
 
 2. **Navigate to the Project Directory**:
