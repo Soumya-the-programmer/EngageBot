@@ -145,7 +145,7 @@ def user_message_send(event=None):
                 time.sleep(0.5) # sleep the time
                 chat_screen.configure(state="normal") # configuring the chatbox to normal
                 # inserting the info   
-                chat_screen.insert(END,"  EngageBot: I’m EngageBot, an AI chatbot model created by Soumyajeet Das. I’m here to help withinformation, answer questions, or to open an application or site. How can I assist you today?\n\n")
+                chat_screen.insert(END,"  EngageBot: I’m EngageBot, an AI chatbot model created by Soumyajeet Das. I’m here to help with information, answer questions, or to open an application or site. How can I assist you today?\n\n")
                 chat_screen.configure(state="disabled") # disabled the chatbox
             
             elif "how are you".lower() in user_text.lower()\
